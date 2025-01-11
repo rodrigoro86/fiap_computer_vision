@@ -1,13 +1,5 @@
 # Desafio Computer Vision - Quantum Finance Autenticação Facial
 
-### Participantes: 
-
-| Nome                                 | RM     |
-|--------------------------------------|--------|
-| Gabriela Schroder de Barros         | 353512 |
-| Rodrigo Broslavschi de Oliveira      | 353534 |
-| Yuko Suga                            | 355013 |
-
 ## Descrição
 O setor de fraudes apontou que existem clientes que se queixaram de não contratar serviços específicos, como o crédito pessoal. No entanto, os protocolos de segurança da senha foram realizados em conformidade, cada cliente autenticou com sua própria senha.​ Em função disso, o banco precisa arcar com reembolsos e medidas de contenção para evitar processos judiciais, pois os clientes alegam terem sido invadidos por hackers ou algo similar.​
 
